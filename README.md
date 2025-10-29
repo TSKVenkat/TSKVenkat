@@ -1,1 +1,1 @@
-# ⚡ Are you lightning? Cuz I wanna make you McQueen 😉
+⚡ Are you lightning? Cuz I wanna make you McQueen 😉
