@@ -1,0 +1,8 @@
+# Full local toolchain, needed for the one-off photo -> ASCII pipeline.
+# The daily workflow installs requirements-ci.txt instead.
+requests==2.32.3
+beautifulsoup4==4.12.3
+pillow
+numpy
+opencv-python-headless
+rembg

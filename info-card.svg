@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="368" viewBox="0 0 490 368" role="img" aria-label="Profile info card for venkat">
+  <title>venkat@github</title>
+  <style>
+    text {
+      font-family: 'SFMono-Regular', 'JetBrains Mono', Consolas, 'Liberation Mono', monospace;
+      font-size: 11.5px;
+      white-space: pre;
+    }
+    .t { font-size: 13px; fill: #9be9a8; font-weight: 600; }
+    .k { fill: #39d353; }
+    .s { fill: #7d8590; }
+    .v { fill: #c9d1d9; }
+    .f { font-size: 10px; fill: #7d8590; }
+    .row { opacity: 0; animation: slide 5.25s ease-out infinite; }
+    @keyframes slide {
+      0%             { opacity: 0; transform: translateX(-9px); }
+      10.476%  { opacity: 1; transform: translateX(0); }
+      88.571% { opacity: 1; transform: translateX(0); }
+      100%           { opacity: 0; transform: translateX(0); }
+    }
+    .cursor { animation: blink 1.06s steps(1) infinite; fill: #39d353; }
+    @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+  </style>
+  <rect width="490" height="368" rx="8" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="489" height="367" rx="8" fill="none" stroke="#21262d"/>
+  <text class="t" x="22" y="36">venkat<tspan fill="#7d8590">@</tspan>github</text>
+  <rect x="22" y="48" width="446" height="1" fill="#21262d"/>
+    <g class="row" style="animation-delay:0.25s"><text class="k" x="22" y="72">Location     </text><text class="s" x="117.7" y="72">:</text><text class="v" x="128.7" y="72">Chennai, Tamil Nadu, India</text></g>
+    <g class="row" style="animation-delay:0.36s"><text class="k" x="22" y="97">Member since </text><text class="s" x="117.7" y="97">:</text><text class="v" x="128.7" y="97">September 2024</text></g>
+    <g class="row" style="animation-delay:0.47s"><text class="k" x="22" y="122">Languages    </text><text class="s" x="117.7" y="122">:</text><text class="v" x="128.7" y="122">TypeScript 71% · Python 19% · JS 3%</text></g>
+    <g class="row" style="animation-delay:0.58s"><text class="k" x="22" y="147">Contributions</text><text class="s" x="117.7" y="147">:</text><text class="v" x="128.7" y="147">1,997 in the last year · 195 active days</text></g>
+    <g class="row" style="animation-delay:0.69s"><text class="k" x="22" y="172">Streak       </text><text class="s" x="117.7" y="172">:</text><text class="v" x="128.7" y="172">3 days · best 15</text></g>
+    <g class="row" style="animation-delay:0.8s"><text class="k" x="22" y="197">Repos        </text><text class="s" x="117.7" y="197">:</text><text class="v" x="128.7" y="197">59 public</text></g>
+    <g class="row" style="animation-delay:0.91s"><text class="k" x="22" y="222">Focus        </text><text class="s" x="117.7" y="222">:</text><text class="v" x="128.7" y="222">fintech infra · privacy-preserving systems</text></g>
+    <g class="row" style="animation-delay:1.02s"><text class="k" x="22" y="247">Also         </text><text class="s" x="117.7" y="247">:</text><text class="v" x="128.7" y="247">AI dev tooling · design systems · CLIs</text></g>
+    <g class="row" style="animation-delay:1.13s"><text class="k" x="22" y="272">Building     </text><text class="s" x="117.7" y="272">:</text><text class="v" x="128.7" y="272">pramana · sentra · openwiki · pulse-ui</text></g>
+    <g class="row" style="animation-delay:1.24s"><text class="k" x="22" y="297">Editor       </text><text class="s" x="117.7" y="297">:</text><text class="v" x="128.7" y="297">whatever has a terminal in it</text></g>
+    <rect x="22" y="334" width="16" height="9" rx="2" fill="#0e4429"/>
+    <rect x="44" y="334" width="16" height="9" rx="2" fill="#006d32"/>
+    <rect x="66" y="334" width="16" height="9" rx="2" fill="#26a641"/>
+    <rect x="88" y="334" width="16" height="9" rx="2" fill="#39d353"/>
+    <rect x="110" y="334" width="16" height="9" rx="2" fill="#9be9a8"/>
+    <rect x="132" y="334" width="16" height="9" rx="2" fill="#c9d1d9"/>
+  <text class="f" x="22" y="350">press any key to continue</text>
+  <rect class="cursor" x="461" y="342" width="7" height="2.5"/>
+</svg>
