@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><code>venkat@github ~ $ ./contributions.sh</code></h3>
+  <!--<h3><code>venkat@github ~ $ ./contributions.sh</code></h3>
   <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
   <br><br>
   <h3><code>venkat@github ~ $ whoami</code></h3>
@@ -10,5 +10,5 @@
     </tr>
   </table>
   <br>
-  <sub>⚡ Are you lightning? Cuz I wanna make you McQueen 😉</sub>
-</div>
+ <sub>⚡ Are you lightning? Cuz I wanna make you McQueen 😉</sub> <!-->
+  perception of time is logarithmic and it haunts me </div>
