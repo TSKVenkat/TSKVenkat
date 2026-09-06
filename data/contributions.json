@@ -1,58 +1,23 @@
 {
   "user": "TSKVenkat",
-  "generated": "2026-09-05",
+  "generated": "2026-09-06",
   "range": {
-    "start": "2025-08-31",
-    "end": "2026-09-05"
+    "start": "2025-09-07",
+    "end": "2026-09-06"
   },
   "stats": {
-    "total": 2183,
-    "active_days": 227,
+    "total": 2175,
+    "active_days": 223,
     "max_day": {
       "date": "2026-06-03",
       "count": 163
     },
     "current_streak": 48,
     "longest_streak": 48,
-    "avg_per_active_day": 9.62,
-    "last_30": 117
+    "avg_per_active_day": 9.75,
+    "last_30": 139
   },
   "days": [
-    {
-      "date": "2025-08-31",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-01",
-      "count": 3,
-      "level": 1
-    },
-    {
-      "date": "2025-09-02",
-      "count": 18,
-      "level": 1
-    },
-    {
-      "date": "2025-09-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-04",
-      "count": 8,
-      "level": 1
-    },
-    {
-      "date": "2025-09-05",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-09-06",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-09-07",
       "count": 0,
@@ -295,7 +260,7 @@
     },
     {
       "date": "2025-10-25",
-      "count": 3,
+      "count": 2,
       "level": 1
     },
     {
@@ -1870,8 +1835,13 @@
     },
     {
       "date": "2026-09-05",
-      "count": 14,
+      "count": 37,
       "level": 1
+    },
+    {
+      "date": "2026-09-06",
+      "count": 0,
+      "level": 0
     }
   ]
 }
